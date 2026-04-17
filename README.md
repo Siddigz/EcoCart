@@ -1,22 +1,25 @@
-# 🌱 EcoCart - Environmental Impact Browser Extension
+# EcoCart - Environmental Impact Browser Extension
 
-**Won "🌱 Best AI for Environmental Impact" in AGI Ventures Canada's Hackathon 3.0**
+**Won "Best AI for Environmental Impact" in AGI Ventures Canada's Hackathon 3.0**
+
+## Demo Video
+[![EcoCart Demo Video](https://img.youtube.com/vi/w-SaoFrLJkc/0.jpg)](https://youtu.be/w-SaoFrLJkc)
 
 EcoCart is an innovative browser extension that helps users make environmentally conscious shopping decisions by analyzing products and suggesting sustainable alternatives. Built with AI-powered environmental impact assessment, EcoCart transforms your shopping experience into a force for positive environmental change.
 
-## 🌟 Features
+## Features
 
-### 🔍 **Smart Environmental Analysis**
+### **Smart Environmental Analysis**
 - **EcoScore Rating**: AI-powered environmental impact scoring from 1.0 (worst) to 5.0 (best)
 - **Real-time Product Assessment**: Instant analysis of products on Amazon and other supported sites
 
-### 🛒 **Intelligent Alternative Suggestions**
+### **Intelligent Alternative Suggestions**
 - **AI-Powered Search**: Find environmentally friendlier alternatives using advanced web search
 - **Amazon Integration**: Seamless integration with Amazon's global marketplaces
 - **Price Comparison**: Compare prices alongside environmental impact
 - **Image Preview**: Visual product previews with automatic image extraction
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -66,7 +69,7 @@ EcoCart is an innovative browser extension that helps users make environmentally
    - Local storage (for cart persistence)
    - Backend API access (for environmental analysis)
 
-## 📱 Usage
+## Usage
 
 ### Basic Workflow
 
@@ -121,7 +124,7 @@ Proxy service for product images to avoid CORS issues.
 GET /image-proxy?url=https://example.com/image.jpg
 ```
 
-## 🧪 Testing
+## Testing
 
 ### Backend Tests
 ```bash
@@ -135,7 +138,7 @@ python test_search.py
 - Verify cart persistence across browser sessions
 - Check image loading and proxy functionality
 
-## 🌱 Environmental Impact
+## Environmental Impact
 
 EcoCart promotes sustainable shopping by:
 
@@ -144,7 +147,7 @@ EcoCart promotes sustainable shopping by:
 - **Educating Consumers**: Providing transparent environmental impact information
 - **Promoting Circular Economy**: Favoring products with longer lifespans and recyclability
 
-## 🔧 Development
+## Development
 
 ### Project Structure
 ```
@@ -168,9 +171,9 @@ EcoCart/
 - **AI Models**: GPT-5 for environmental analysis
 - **Storage**: Browser extension local storage API
 
-## 🏆 Hackathon Goals
+## Hackathon Goals
 
-**Target Achievement**: "🌱 Best AI for Environmental Impact"
+**Target Achievement**: "Best AI for Environmental Impact"
 
 EcoCart demonstrates how AI can be harnessed to create meaningful environmental change by:
 - Making sustainability accessible to everyday consumers
